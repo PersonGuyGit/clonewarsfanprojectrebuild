@@ -1,0 +1,13 @@
+.episodeImage{
+    aspect-ratio: 16 / 9;
+}
+.episodeTitle{
+
+}
+.episodePlot{
+    opacity: 0.7;
+}
+.seasonAndEpisodeIndicator{
+    padding-bottom: .5rem;
+}
+
