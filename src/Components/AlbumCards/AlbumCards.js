@@ -40,7 +40,7 @@ function AlbumCards() {
               <Typography className='seasonAndEpisodeIndicator'>
                 {"Season " + DataJson.seasonIndex[i] + ", Episode " + DataJson.episodeIndex[i]}
               </Typography>
-              <Typography className='episodePlot'>
+              <Typography className='episodePlot' variant='h7'>
                   {/* Plot Title */}
                   {DataJson.plot[i]}
               </Typography>
