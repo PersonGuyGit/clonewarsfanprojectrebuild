@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React from "react";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
@@ -6,9 +6,6 @@ import Container from "@mui/material/Container";
 import Link from "@mui/material/Link";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import AlbumCards from "../AlbumCards/AlbumCards";
-import CustomAppBar from "../Appbar/CustomAppbar";
-import episodes from '../JSON/OutputJsonV2.json'
-import Fuse from 'fuse.js'
 
 function Copyright() {
   return (
@@ -72,16 +69,10 @@ theme.typography.h5 = {
 };
 
 export default function Album() {
-  const fuse = new Fuse(episodes, {
-    keys: ["episodeTitle", "plot"], includeScore: true
-  });
-
-  console.log(fuse);
-
+  
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <CustomAppBar />
       <main>
         {/* Hero unit */}
         <Box
@@ -129,7 +120,7 @@ export default function Album() {
       {/* Footer */}
       <Box sx={{ bgcolor: "background.paper", p: 6 }} component="footer">
         <Typography variant="h6" align="center" gutterBottom>
-          Footer
+        Made with Python, the iMDB API, React, and MUI
         </Typography>
         <Typography
           variant="subtitle1"
@@ -137,10 +128,7 @@ export default function Album() {
           color="text.secondary"
           component="p"
         >
-          This site was made using Python and the IMDb API, to sort the episodes
-          into the correct order.
-          <br />
-          Then the frontend was made using React, as well as the MUI framework.
+          This fan-made website is not made or associated with any rightholders of Star Wars
         </Typography>
         <Copyright/>
       </Box>

@@ -8,16 +8,17 @@ import pandas as pd
 
 emptyArray = []
 
-season1 = open('THEJSONFILES/seasonone.json', 'r')
-season2 = open('THEJSONFILES/seasontwo.json', 'r')
-season3 = open('THEJSONFILES/seasonthree.json', 'r')
-season4 = open('THEJSONFILES/seasonfour.json', 'r')
-season5 = open('THEJSONFILES/seasonfive.json', 'r')
-season6 = open('THEJSONFILES/seasonsix.json', 'r')
-season7 = open('THEJSONFILES/seasonseven.json', 'r')
+season1 = open('src\Components\Python\THEJSONFILES\seasonone.json', 'r')
+season2 = open('src\Components\Python\THEJSONFILES\seasontwo.json', 'r')
+season3 = open('src\Components\Python\THEJSONFILES\seasonthree.json', 'r')
+season4 = open('src\Components\Python\THEJSONFILES\seasonfour.json', 'r')
+season5 = open('src\Components\Python\THEJSONFILES\seasonfive.json', 'r')
+season6 = open('src\Components\Python\THEJSONFILES\seasonsix.json', 'r')
+season7 = open('src\Components\Python\THEJSONFILES\seasonseven.json', 'r')
 
-columnData = ["episodeTitle", "seasonIndex", "episodeIndex", "plot", "imageURL"]
-    
+columnData = ["episodeTitle", "seasonIndex", "episodeIndex", "plot", "imageURL", 'primaryKey']
+
+
 finalDf = pd.DataFrame
 
 def ReadTheDarnJsonFile(jsonTitle):
@@ -36,9 +37,9 @@ def ReadTheDarnJsonFile(jsonTitle):
         tempPlot = str(currentSeasonList[i].get('plot'))
         tempImage = str(currentSeasonList[i].get('image'))
       
-        dataObj = pd.Series([tempTitle, tempSN, tempEN, tempPlot, tempImage], index=(df.columns))
+        dataObj = pd.Series([tempTitle, tempSN, tempEN, tempPlot, tempImage])
         df.loc[i] = dataObj
-        
+     
     emptyArray.append(df)
         
 ReadTheDarnJsonFile(season1)
@@ -50,9 +51,11 @@ ReadTheDarnJsonFile(season6)
 ReadTheDarnJsonFile(season7)
 
 finalDf = pd.concat(emptyArray)
-print(emptyArray)
-
 
 holyOutput = finalDf.sort_values(by=['episodeTitle'])
 holyOutput.reset_index(inplace=True)
-holyOutput.to_json("/home/luke/Projects/clonewars_migration/clonewarssite/src/Components/JSON/OutputJsonV2.json")
+
+with open('fixeddata.json', 'w') as f:
+    f.write(holyOutput.to_json(orient='records'))
+
+print(holyOutput)

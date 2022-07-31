@@ -1,0 +1,1066 @@
+[
+    {
+        "episodeTitle": "A Distant Echo",
+        "seasonIndex": "7",
+        "episodeIndex": "2",
+        "plot": "Believing that MIA soldier Echo may still be alive, Rex's mission becomes doubly important. Alongside Bad Batch and Anakin, the clone captain launches a dangerous covert rescue.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNWY1MGI3MDMtNDFmYy00M2ZjLTlhYTAtYjk0YThhODFiNmI2XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 1
+    },
+    {
+        "episodeTitle": "A Friend in Need",
+        "seasonIndex": "4",
+        "episodeIndex": "14",
+        "plot": "Lux Bonteri disrupts a peace conference between Seperatist and Republic representatives on Mandalore. Intent on safeguarding him, Ahsoka becomes involved in Lux's plan to take revenge on Count Dooku for his mother's death.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYTVhYTk5MTYtZGQ2Mi00ZDgzLTlkNzEtYTgzNGU5NDU2ODJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.4603_AL_.jpg",
+        "PrimaryKey": 2
+    },
+    {
+        "episodeTitle": "A Necessary Bond",
+        "seasonIndex": "5",
+        "episodeIndex": "9",
+        "plot": "General Grievous leads an attack on Hondo Ohnaka's base, forcing the pirates to form a temporary alliance with Ahsoka and the Jedi younglings.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BOTgxZTdmNzktNzIzYy00ZjI4LTg1MjQtMGM3YWM4MGU3YzVjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3333_AL_.jpg",
+        "PrimaryKey": 3
+    },
+    {
+        "episodeTitle": "A Sunny Day in the Void",
+        "seasonIndex": "5",
+        "episodeIndex": "11",
+        "plot": "D-Squad has obtained their mission objective, but crash-land on a desolate planet after a run-in with comets.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTcxZTI5YjctYTFhZi00NjEyLTg0YTgtMWVhZDZkOTUwNzcwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 4
+    },
+    {
+        "episodeTitle": "A Test of Strength",
+        "seasonIndex": "5",
+        "episodeIndex": "7",
+        "plot": "As the six younglings prepare to construct their lightsabers, their training vessel Crucible is attacked by Hondo Ohnaka and his pirates.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTQwMmNmYmQtMTEzYy00NGYyLTkzYTktMTA5MTRmNWYzNzQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.6667_AL_.jpg",
+        "PrimaryKey": 5
+    },
+    {
+        "episodeTitle": "A War on Two Fronts",
+        "seasonIndex": "5",
+        "episodeIndex": "2",
+        "plot": "By a request from Lux Bonteri, Anakin, Obi-Wan, Ahsoka and Rex travel to Onderon to help train a group of rebels so they can take back the capital city of Iziz from the Separatists.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzgzMGZkOWUtMDU0OS00NWEyLWExOTEtODBiOWJhNTMzMzViXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.5079_AL_.jpg",
+        "PrimaryKey": 6
+    },
+    {
+        "episodeTitle": "ARC Troopers",
+        "seasonIndex": "3",
+        "episodeIndex": "2",
+        "plot": "General Grievous and Asajj Ventress combine forces in an attack on Kamino. As Anakin and Obi-Wan rush to aid Tipoca City, the clones prepare to defend their home planet.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMDY1MDQxMDYtZWVjNS00NGIxLTkyZTQtMjBmOTgxMTZkNmQzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 7
+    },
+    {
+        "episodeTitle": "Altar of Mortis",
+        "seasonIndex": "3",
+        "episodeIndex": "16",
+        "plot": "Before the Jedi can leave Mortis, the Son abducts Ahsoka and infects her with the dark side. While Anakin faces his Padawan, the Daughter reveals to Obi-Wan the only weapon that can defeat her brother: the Dagger of Mortis.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYzYwYTFiN2QtZThhMi00YjhiLWJjNmQtYjY0OWY5YTkzODBjXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.0000_AL_.jpg",
+        "PrimaryKey": 8
+    },
+    {
+        "episodeTitle": "Ambush",
+        "seasonIndex": "1",
+        "episodeIndex": "1",
+        "plot": "Yoda, along with three clone troopers, must face off against Asajj Ventress and her droid army while on a mission to a moon of Rugosa.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzJlNmY2NWEtMjg4ZC00ODc1LThhNDMtNzA0MTUzMDZjNDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 9
+    },
+    {
+        "episodeTitle": "An Old Friend",
+        "seasonIndex": "6",
+        "episodeIndex": "5",
+        "plot": "While on Scipio to fund a mercy mission, Senator Amidala is called upon by an old friend to help uncover corruption in the Banking Clan.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZDkxMzE3ZTAtMTA3YS00MWY1LWEyZjUtNDliOTJlYmY2MjY3XkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.2857_AL_.jpg",
+        "PrimaryKey": 10
+    },
+    {
+        "episodeTitle": "Assassin",
+        "seasonIndex": "3",
+        "episodeIndex": "7",
+        "plot": "Ahsoka receives visions about Aurra Sing attempting to assassinate Padme Amidala and decides to accompany the Senator on a peace mission to Alderaan.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYzQ4Nzc1NzYtODRiNC00NzEyLTg5ZWQtMmY3NTc0OThiNmQ3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 11
+    },
+    {
+        "episodeTitle": "Blue Shadow Virus",
+        "seasonIndex": "1",
+        "episodeIndex": "17",
+        "plot": "Evil scientist Dr. Nuvo Vindi is recreating the dreaded Blue Shadow Virus in his secret underground lab on Naboo. When he captures Senator Amidala and Jar Jar Binks, Anakin and Obi-Wan mount a rescue operation.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTg4OTQxNTcwN15BMl5BanBnXkFtZTgwNTAyMjIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 12
+    },
+    {
+        "episodeTitle": "Bombad Jedi",
+        "seasonIndex": "1",
+        "episodeIndex": "8",
+        "plot": "Padme travels to Rodia to meet with old family friend Onaconda Farr about the lack of food rations. Unfortunately Farr has just made a deal with the Separatists. Padme is imprisoned, leaving it up to Jar Jar Binks and C-3PO to rescue her.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZDI4MTY1YTMtMjE3Mi00NDM3LTgxOTEtZTZmNjI3MTljMDQyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 13
+    },
+    {
+        "episodeTitle": "Bound for Rescue",
+        "seasonIndex": "5",
+        "episodeIndex": "8",
+        "plot": "Hondo has failed to capture the Kaiburr crystals, but does hold Ahsoka as a prisoner. The younglings form a plan to infiltrate the pirate hideout on Florrum.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYjBhZGU1NGUtYTA0ZC00NDEwLWIxNjEtZDMwMDNkYjc5ZTZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 14
+    },
+    {
+        "episodeTitle": "Bounty",
+        "seasonIndex": "4",
+        "episodeIndex": "20",
+        "plot": "Asajj Ventress joins a group of bounty hunters led by Boba Fett. Their mission is to deliver a box with unknown cargo to the leader of the planet Quarzite.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNTgzMzdiNjYtMDViYi00YzNmLWFmN2ItNWUzZGYyZWY1ZTIzXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.0000_AL_.jpg",
+        "PrimaryKey": 15
+    },
+    {
+        "episodeTitle": "Bounty Hunters",
+        "seasonIndex": "2",
+        "episodeIndex": "17",
+        "plot": "Obi-Wan, Anakin and Ahsoka crash land on Felucia and reluctantly join four bounty hunters in defending a village from Hondo Ohnaka's pirate gang.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZTEwNWM0ZGMtMjJmNi00YTg4LTg4YTYtNDM5ZDhjMGJmZTM5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 16
+    },
+    {
+        "episodeTitle": "Brain Invaders",
+        "seasonIndex": "2",
+        "episodeIndex": "8",
+        "plot": "Ahsoka, Barris and Tango Company board a supply ship to a station near Ord Cestus. But one of the troopers has been infected by a Geonosian brain worm and has taken along a nest full of worm eggs to submit the others.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTM3NjgyMDcwMF5BMl5BanBnXkFtZTcwNDQwMjM4NA@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 17
+    },
+    {
+        "episodeTitle": "Brothers",
+        "seasonIndex": "4",
+        "episodeIndex": "21",
+        "plot": "The search for his long lost brother, Darth Maul, leads Savage Opress to the junk planet of Lotho Minor.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BN2IwNzllM2ItZGIyOS00N2Q3LTg1YTctNDBkOTY2YWY0MzQ1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.6667_AL_.jpg",
+        "PrimaryKey": 18
+    },
+    {
+        "episodeTitle": "Cargo of Doom",
+        "seasonIndex": "2",
+        "episodeIndex": "2",
+        "plot": "With Anakin and Ahsoka in pursuit, Cad Bane seeks the last piece to unlock the holocron he stole for Darth Sidious.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYTQzZGU2NDItNTRlNC00YzBjLTgzMTUtNWZjNWQ3MGI1NGU3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 19
+    },
+    {
+        "episodeTitle": "Carnage of Krell",
+        "seasonIndex": "4",
+        "episodeIndex": "10",
+        "plot": "Rex and the 501st troopers refuse to execute Fives and Jesse for their insubordination. They are in for even bigger shock when General Krell orders another offensive.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNjNmOWZkMzMtYWUxNi00NDc2LWJlYzUtM2NiYzA3YTUwNTc4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.7143_AL_.jpg",
+        "PrimaryKey": 20
+    },
+    {
+        "episodeTitle": "Cat and Mouse",
+        "seasonIndex": "2",
+        "episodeIndex": "16",
+        "plot": "Anakin is tasked to fly a prototypical cloaked ship to get supplies to Bail Organa on Christophsis, but can't resist an urge to attack a blockade headed by the infamous Admiral Trench.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzEzYmQ4YjQtNjM5My00OWRmLWJmZTktNWIwMzgwNmM0NmNiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 21
+    },
+    {
+        "episodeTitle": "Children of the Force",
+        "seasonIndex": "2",
+        "episodeIndex": "3",
+        "plot": "With the information from the stolen holocron, Darth Sidious orders Cad Bane to kidnap several Force-sensitive children for his scheme.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYzBlM2Q3NGEtMjgxYi00Njg5LTkwNDgtNjQwZWRlMjc2MzMwXkEyXkFqcGdeQXVyMjg5NDMwMQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 22
+    },
+    {
+        "episodeTitle": "Citadel Rescue",
+        "seasonIndex": "3",
+        "episodeIndex": "20",
+        "plot": "Masters Plo Koon and Saesee Tiin head a desperate rescue operation to get the survivors of the Citadel infiltration mission and the information they carry.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYzlkN2EwOTAtMWVhNS00NTQyLWE1YWQtMjFlOGZjZjk5ZDMyXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.0000_AL_.jpg",
+        "PrimaryKey": 23
+    },
+    {
+        "episodeTitle": "Cloak of Darkness",
+        "seasonIndex": "1",
+        "episodeIndex": "9",
+        "plot": "Ahsoka and Master Luminara escort captured Nute Gunray to trial, unaware that Count Dooku has dispatched his deadly apprentice Asajj Ventress to free the prisoner and eliminate the Jedi.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMGQ3ZTk3OWQtM2ZhZC00MThkLWJjYjQtZjAxMDkwZmY4MmI5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 24
+    },
+    {
+        "episodeTitle": "Clone Cadets",
+        "seasonIndex": "3",
+        "episodeIndex": "1",
+        "plot": "Unless they want to flunk out, the clones of Domino Squad must learn to work together during their training on Kamino.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzA0MjM2OTM1M15BMl5BanBnXkFtZTgwMzQwNzIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 25
+    },
+    {
+        "episodeTitle": "Conspiracy",
+        "seasonIndex": "6",
+        "episodeIndex": "2",
+        "plot": "Clone trooper Tup is undergoing a medical examination in the sterile laboratories of Kamino to find the motives for his shocking attack on the Jedi Master. For the examination to succeed, trooper Fives must enter the depth of Tup's mind.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjMzNjY5NjExMV5BMl5BanBnXkFtZTgwMjIyODc1MzE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 26
+    },
+    {
+        "episodeTitle": "Corruption",
+        "seasonIndex": "3",
+        "episodeIndex": "5",
+        "plot": "When Padme visits Mandalore on a diplomatic mission she finds herself investigating an outbreak of a mysterious illness at a school with Duchess Satine.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BOWE0OWJkNjYtYzk1MS00OTFiLWI3ZDgtYzNiYmFmZWYwMmYyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.1746_AL_.jpg",
+        "PrimaryKey": 27
+    },
+    {
+        "episodeTitle": "Counter Attack",
+        "seasonIndex": "3",
+        "episodeIndex": "19",
+        "plot": "The Jedi and their troops have split up to safeguard the vital information but find that getting out of the Citadel is even harder than getting in.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZjM0ZTY3NGUtZmE4YS00YTIyLTk0ZDItMGRmNDc5Y2Y3YTlkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.1746_AL_.jpg",
+        "PrimaryKey": 28
+    },
+    {
+        "episodeTitle": "Crisis at the Heart",
+        "seasonIndex": "6",
+        "episodeIndex": "7",
+        "plot": "After making a deal with Count Dooku to resuscitate the ailing Banking Clan, Clovis finds himself as a pawn in Dooku's designs.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTUzNzQyZGItYWMwMy00MDVhLWE5NTgtYjU1MDZjOGM5YmM4XkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 29
+    },
+    {
+        "episodeTitle": "Crisis on Naboo",
+        "seasonIndex": "4",
+        "episodeIndex": "18",
+        "plot": "Cad Bane leads Dooku's team of bounty hunters, including a disguised Obi-Wan, in a plot to kidnap the Supreme Chancellor during the Festival of Lights on Naboo.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZjY0OWMxZmEtOTBlMi00Mjc4LTgwNGEtZWI2Njg5ZmE1ZTNhXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.0000_AL_.jpg",
+        "PrimaryKey": 30
+    },
+    {
+        "episodeTitle": "Dangerous Debt",
+        "seasonIndex": "7",
+        "episodeIndex": "7",
+        "plot": "Taken prisoner by the Pykes, Ahsoka and the Martez sisters attempt to escape.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYzYyNGQ2OGEtZWY0Yy00YWFlLWIzYWItZjYyMzc0ZmQyMDRmXkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_Ratio2.0159_AL_.jpg",
+        "PrimaryKey": 31
+    },
+    {
+        "episodeTitle": "Darkness on Umbara",
+        "seasonIndex": "4",
+        "episodeIndex": "7",
+        "plot": "During an assault on the shadowy world of Umbara, General Skywalker is called back to Coruscant. He has to relinquish command of the 501st legion to legendary Jedi Master Krell, who turns out to have a low opinion of clones.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYmI5NjRmMjgtYWJlMC00YTFjLWIyY2EtODM0YzBmODc5MWViXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.5397_AL_.jpg",
+        "PrimaryKey": 32
+    },
+    {
+        "episodeTitle": "Deal No Deal",
+        "seasonIndex": "7",
+        "episodeIndex": "6",
+        "plot": "Ahsoka, Trace and Rafa are hired to deliver some spice, but things soon get complicated.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BN2M1ZjMwMGQtYTM2MC00MTI0LThiM2YtYmIxYmU2YzdlOTk4XkEyXkFqcGdeQXVyMjg5NDMwMQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 33
+    },
+    {
+        "episodeTitle": "Death Trap",
+        "seasonIndex": "2",
+        "episodeIndex": "20",
+        "plot": "Determined to have his revenge on Mace Windu, Boba Fett infiltrates Jedi cruiser Endurance as part of a group of young clone cadets.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzc0OGM0MzktMGY3Ni00NzMwLTljMWYtY2U3NGQ0OTdkZTg5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 34
+    },
+    {
+        "episodeTitle": "Deception",
+        "seasonIndex": "4",
+        "episodeIndex": "15",
+        "plot": "Obi-Wan fakes his own death and goes undercover as his own 'killer', Rako Hardeen, so he can infiltrate Moralo Eval's plot to kidnap Chancellor Palpatine.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYmQ2MzEwZTctZTA0OC00YzZmLTg0NmQtZGZiMGI4MjMwZDQ0XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 35
+    },
+    {
+        "episodeTitle": "Defenders of Peace",
+        "seasonIndex": "1",
+        "episodeIndex": "14",
+        "plot": "While the Jedi combat a new Separatist weapon, the pacifist Lurmen must decide whether they will surrender or fight with Anakin, Ahsoka and Aayla Secura.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTY4ZTEwZTctNGZhNi00NTQwLWE1MWQtYTQyYzkxMjIzOTJiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 36
+    },
+    {
+        "episodeTitle": "Destiny",
+        "seasonIndex": "6",
+        "episodeIndex": "12",
+        "plot": "Letting the Force guide him, Yoda voyages into the heart of the galaxy to an ancient world that is one of the wellsprings of the Force and the source of midi-chlorians.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTQ4NjAzODc4MF5BMl5BanBnXkFtZTgwMTE0NTIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 37
+    },
+    {
+        "episodeTitle": "Destroy Malevolence",
+        "seasonIndex": "1",
+        "episodeIndex": "4",
+        "plot": "Padme Amidala and C-3PO are taken hostage by Grievous aboard the Malevolence. Anakin and Obi-Wan board the ship to rescue the senator and her protocol droid.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZTdjZmI1NzctODhiZi00ZDQwLWI1NGEtY2E1NzBmZjg1ODkzXkEyXkFqcGdeQXVyMTAzMTQ0NTM1._V1_Ratio2.3810_AL_.jpg",
+        "PrimaryKey": 38
+    },
+    {
+        "episodeTitle": "Dooku Captured",
+        "seasonIndex": "1",
+        "episodeIndex": "11",
+        "plot": "During their own attempt to kidnap Count Dooku, Anakin and Obi-Wan discover that the Sith Lord has already been captured by pirates.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTQ2ODE2MDIyNF5BMl5BanBnXkFtZTgwNzE5NTEyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 39
+    },
+    {
+        "episodeTitle": "Downfall of a Droid",
+        "seasonIndex": "1",
+        "episodeIndex": "6",
+        "plot": "Anakin must find the missing R2-D2 before the Separatists discover the Jedi military secrets locked in his memory banks.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BOWRjN2NkNDMtNDVhZS00ZThjLThmZTctM2VjMWZkMmY5OGY5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 40
+    },
+    {
+        "episodeTitle": "Duchess of Mandalore",
+        "seasonIndex": "2",
+        "episodeIndex": "14",
+        "plot": "On Coruscant, word reaches Duchess Satine that Death Watch is mobilizing, sparking a preemptive Republic invasion. On the run from Republic authorities, Satine and Obi-Wan set off to discover the group's true motives.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMzQzMTE0NjItMGJjNi00NzJiLWIyYmEtMGI0MzI1YmZhYjIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 41
+    },
+    {
+        "episodeTitle": "Duel of the Droids",
+        "seasonIndex": "1",
+        "episodeIndex": "7",
+        "plot": "Anakin, Ahsoka and replacement droid R3-S6 embark on a dual rescue\/sabotage mission when they discover R2-D2 is being held at General Grievous' secret enemy listening post.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzVkMTdmNWQtZDkzZS00ZjI5LWJmOTQtZmMyZTYwMGQ3NWJmXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 42
+    },
+    {
+        "episodeTitle": "Eminence",
+        "seasonIndex": "5",
+        "episodeIndex": "14",
+        "plot": "Darth Maul and Savage Opress join forces with the Death Watch and together they recruit the Black Sun and Hutt crime lords to form the Shadow Collective.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjA5NzUzNTI2OV5BMl5BanBnXkFtZTgwMzY0NjIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 43
+    },
+    {
+        "episodeTitle": "Escape from Kadavo",
+        "seasonIndex": "4",
+        "episodeIndex": "13",
+        "plot": "While Obi-Wan and Rex are forced to work at the Kadavo slave camps, Count Dooku arrives at Zygerria and demands the execution of the captured Jedi.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjI1MDYwMjc3OV5BMl5BanBnXkFtZTgwNDk2NTEyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 44
+    },
+    {
+        "episodeTitle": "Evil Plans",
+        "seasonIndex": "3",
+        "episodeIndex": "8",
+        "plot": "C-3PO and R2-D2 are tasked to get some Jogan fruit for a reception honoring Roonan Senator Aang. But the droids are targeted by bounty hunter Cad Bane who wants to extract information regarding the Senate from their data banks.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZDZiZTQzMDUtOTQxYy00MTlhLThmZmYtZDc3NzVkYmE3YjFlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.1746_AL_.jpg",
+        "PrimaryKey": 45
+    },
+    {
+        "episodeTitle": "Friends and Enemies",
+        "seasonIndex": "4",
+        "episodeIndex": "16",
+        "plot": "Disguised as Bounty Hunter Rako Hardeen, Obi-Wan Kenobi is on the run with criminal mastermind Moralo Eval and Cad Bane. But their partnership is on thin ice and Anakin and Ahsoka are in hot pursuit.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNjk2MzAwNDctN2ZiMC00ZTZhLWI1MmUtNzNkMTk0Y2FlY2I4XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.0000_AL_.jpg",
+        "PrimaryKey": 46
+    },
+    {
+        "episodeTitle": "Front Runners",
+        "seasonIndex": "5",
+        "episodeIndex": "3",
+        "plot": "The Jedi and Rex return to Coruscant and leave Ahsoka in charge of supervising the Onderon Rebels as they carry out a series of strikes in the capital.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BODc3ODBiM2QtY2Y5OS00NDgxLWI2ZTYtN2VhZTM3ZjhiMzBjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.4921_AL_.jpg",
+        "PrimaryKey": 47
+    },
+    {
+        "episodeTitle": "Fugitive",
+        "seasonIndex": "6",
+        "episodeIndex": "3",
+        "plot": "Tup's body is transported back to Coruscant where it is to be examined by the Chancellor's personal physician, while Fives furtively investigates his death with the help of a droid.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTRkMDI3MDgtZjlhNi00OTk4LWI0OTctZjZjODMyZjViYWE1XkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 48
+    },
+    {
+        "episodeTitle": "Ghosts of Mortis",
+        "seasonIndex": "3",
+        "episodeIndex": "17",
+        "plot": "The Son shows Anakin a vision of the future to sway him to his side. Obi-Wan and Ahsoka must make sure the Son does not leave Mortis aboard their Jedi shuttle.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMzFlM2JlMmMtN2E3OS00MmExLWE4MDMtNjU3NmU4NDU1ZTZhXkEyXkFqcGdeQXVyMTAzMTQ0NTM1._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 49
+    },
+    {
+        "episodeTitle": "Gone with a Trace",
+        "seasonIndex": "7",
+        "episodeIndex": "5",
+        "plot": "After leaving the Jedi Order, Ahsoka finds herself in the underworld of Coruscant where she meets aspiring pilot, Trace Martez. Enlisted by Trace's sister, Rafa, to help build dangerous droids, Ahsoka opts to keep her Jedi past a secret.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMzJkMDIyMGYtMDVmYS00MzU2LWFiZDgtYTAwZmQ2NjExNzVlXkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_Ratio2.0159_AL_.jpg",
+        "PrimaryKey": 50
+    },
+    {
+        "episodeTitle": "Grievous Intrigue",
+        "seasonIndex": "2",
+        "episodeIndex": "9",
+        "plot": "Master Eeth Koth has tracked down General Grievous, but is soon captured and tortured as an example to the Jedi. Obi-Wan, Anakin and Adi Gallia mount a rescue attempt, unaware that Grievous is expecting them to do just that.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BODAwZDE2MTctOWE1OC00Y2QxLWI2NWUtNWI4MTMxZDQwZTUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 51
+    },
+    {
+        "episodeTitle": "Gungan Attack",
+        "seasonIndex": "4",
+        "episodeIndex": "2",
+        "plot": "The Mon Cal and Jedi are in hiding beneath the underwater capital city of Mon Cal. The Jedi Council calls on the help of the Gungan army led by Jar Jar Binks.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTc5MTAxNzMyOV5BMl5BanBnXkFtZTgwNDkxMzIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 52
+    },
+    {
+        "episodeTitle": "Heroes on Both Sides",
+        "seasonIndex": "3",
+        "episodeIndex": "10",
+        "plot": "Padme visits her old mentor Mina Bonteri, who has chosen the side of the Separatists but is urging for peace talks. But the Banking Clan and several corrupt senators conspire against this initiative.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYjcxZGI2MDgtNDBhMi00ZGQ0LWE1ODctNTdkMGZlNGNiYzE2XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 53
+    },
+    {
+        "episodeTitle": "Holocron Heist",
+        "seasonIndex": "2",
+        "episodeIndex": "1",
+        "plot": "Darth Sidious commissions a bounty hunter to break into the Jedi Temple Archives.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZjc5NDY4ZTctZjExZC00OTE4LTliZDgtZGUxMzI2NjI5MzhmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 54
+    },
+    {
+        "episodeTitle": "Hostage Crisis",
+        "seasonIndex": "1",
+        "episodeIndex": "22",
+        "plot": "To free crime lord Ziro the Hutt, bounty hunters seize control of the Senate Building and take hostages, unaware that Anakin Skywalker is still inside.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYzA5ODVjY2MtMWQxYS00NDQwLTk3MmQtNzNhM2U3NWU1NGJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 55
+    },
+    {
+        "episodeTitle": "Hunt for Ziro",
+        "seasonIndex": "3",
+        "episodeIndex": "9",
+        "plot": "Obi-Wan Kenobi and Quinlan Vos are assigned to retrieve Ziro the Hutt after his escape from prison. But Ziro is instantly put on trial by the five Hutt families on Nal Hutta, where his only ally may be an old lover.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYjhkYzNlNmYtMGIzYy00OTA5LWJjODktNTdjYzJlMDExY2JmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.1746_AL_.jpg",
+        "PrimaryKey": 56
+    },
+    {
+        "episodeTitle": "Innocents of Ryloth",
+        "seasonIndex": "1",
+        "episodeIndex": "20",
+        "plot": "To sabotage a powerful Separatist weapon, Obi-Wan and a small clone force enter an occupied town, and discover that its residents are being used as a living shield.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYWQyYmJjOTgtYTAzNi00OTdjLWFmYTgtZWRiYWQ1ZmNkZGM0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 57
+    },
+    {
+        "episodeTitle": "Jedi Crash",
+        "seasonIndex": "1",
+        "episodeIndex": "13",
+        "plot": "Anakin is injured while rescuing Aayla Secura from Super Battle Droids equipped with rocket packs. Ahsoka crash-lands their shuttle on the neutral planet of Maridun, where the native Lurmen villagers refuse to takes sides in the war.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjM3NzY2MTY0Nl5BMl5BanBnXkFtZTgwMDYzMTIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 58
+    },
+    {
+        "episodeTitle": "Kidnapped",
+        "seasonIndex": "4",
+        "episodeIndex": "11",
+        "plot": "The Separatists support Zygerrian slavers in taking over a Togruta colony on the neutral planet Kiros. Anakin and Ahsoka race to defuse a series of bombs, while Obi-Wan faces the Zygerrian leader, Darts D'Nar.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYmJjOWY1MWItNTI3Mi00OGYwLWE1OTItOWY0ZTZlYWViOGIyXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.0000_AL_.jpg",
+        "PrimaryKey": 59
+    },
+    {
+        "episodeTitle": "Lair of Grievous",
+        "seasonIndex": "1",
+        "episodeIndex": "10",
+        "plot": "General Grievous must prove himself worthy of the Separatists when Count Dooku leads Kit Fisto and his former Padawan to Grievous' villainous enclave.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BOTE0YWE2NGYtOGMzMS00MjZhLTg1YjgtYjdkNjdjNjYwY2NmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 60
+    },
+    {
+        "episodeTitle": "Landing at Point Rain",
+        "seasonIndex": "2",
+        "episodeIndex": "5",
+        "plot": "Anakin, Ahsoka, Obi-Wan and Ki-Adi-Mundi lead a landing party to destroy a droid factory on Geonosis.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMmNmNzAyMmEtYzAyNi00Yzg5LWJmMmUtY2M3Yjg3OTRlNmFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 61
+    },
+    {
+        "episodeTitle": "Legacy of Terror",
+        "seasonIndex": "2",
+        "episodeIndex": "7",
+        "plot": "Luminara Unduli disappears during a sandstorm while following Poggle the Lesser. When Anakin and Obi-Wan track her to an ancient temple, they are attacked by undead Geonosian warriors.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZWFiM2Y0MTItYWQ0Ny00ZmY4LTk0OTUtMWZmMzk3MWYxYmE3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 62
+    },
+    {
+        "episodeTitle": "Lethal Trackdown",
+        "seasonIndex": "2",
+        "episodeIndex": "22",
+        "plot": "Boba Fett and Aurra Sing are using hostages to force Mace Windu to face them. With Mace and Anakin still recovering, Plo Koon and Ahsoka Tano track down the bounty hunters.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjMyODIwMTgwOV5BMl5BanBnXkFtZTgwMTAwMDIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 63
+    },
+    {
+        "episodeTitle": "Liberty on Ryloth",
+        "seasonIndex": "1",
+        "episodeIndex": "21",
+        "plot": "Mace Windu and his clone troopers aim to liberate the Ryloth capitol of Lessu but needs to acquire the help of a Twi'lek resistance group led by Cham Syndulla in order to do so.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BOTU3ODgyZWUtNmY5ZC00MjlkLTk5MzAtNWU2YjY3YzdiOTgzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 64
+    },
+    {
+        "episodeTitle": "Lightsaber Lost",
+        "seasonIndex": "2",
+        "episodeIndex": "11",
+        "plot": "During a mission in the underworld of Coruscant, a pickpocket steals Ahsoka's lightsaber. Too ashamed to tell Anakin, she sets out to look for the thief alone, but gets help from Tera Sinube, an ancient Jedi Master.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZWM4NjAwNDMtOWI0NC00ZjNjLWJmZjgtOTQzYTI5MjIzYTY5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 65
+    },
+    {
+        "episodeTitle": "Massacre",
+        "seasonIndex": "4",
+        "episodeIndex": "19",
+        "plot": "Asajj Ventress returns to Dathomir to become a true Nightsister. But then Count Dooku orders General Grievous to wipe out Mother Talzin and her entire clan of witches.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTQ2MjkwNDE1OV5BMl5BanBnXkFtZTgwMTAxNTEyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 66
+    },
+    {
+        "episodeTitle": "Mercy Mission",
+        "seasonIndex": "4",
+        "episodeIndex": "5",
+        "plot": "Commander Wolffe and his men aid the Aleena whose planet has recently suffered terrible quakes. Translator droid C-3PO and his counterpart R2-D2 find the natives need them to fulfill a special task.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTk2MTgyMDc4OF5BMl5BanBnXkFtZTgwODAyMzIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 67
+    },
+    {
+        "episodeTitle": "Missing in Action",
+        "seasonIndex": "5",
+        "episodeIndex": "12",
+        "plot": "Colonel Gascon and the five droids of D-Squad have arrived at the remote town of Pons Ora on the planet Abafar and find a clone commando suffering from amnesia.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZjIyMjhiNzgtMTM3Yi00YTk2LTliZTktN2FmYzU4Y2E0MzhjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 68
+    },
+    {
+        "episodeTitle": "Monster",
+        "seasonIndex": "3",
+        "episodeIndex": "13",
+        "plot": "Count Dooku accepts Mother Talzin's offer to present him with a warrior from the same tribe as Darth Maul. However, Talzin and Asajj Ventress pick and train the warrior and use Nightsister magic to bend him to their will.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNGM3NGI5ZDEtNzJiOS00NjZmLTg3NTctYjM1OWIyMTk5OGQ2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 69
+    },
+    {
+        "episodeTitle": "Mystery of a Thousand Moons",
+        "seasonIndex": "1",
+        "episodeIndex": "18",
+        "plot": "The fatal Blue Shadow Virus is released, infecting Ahsoka, Padme and many clone troopers. Anakin and Obi-Wan must find the antidote on a mysterious planet from which no visitor has ever returned.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjM4YjIwMWUtOWZlMy00MzhiLWE1YzAtN2Q1NWIwNGEzMDc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 70
+    },
+    {
+        "episodeTitle": "Nightsisters",
+        "seasonIndex": "3",
+        "episodeIndex": "12",
+        "plot": "Darth Sidious orders Lord Tyrannus to eliminate Asajj Ventress, lest her becoming too powerful. But Ventress escapes and manages to make her way back to her home planet of Dathomir, vowing revenge on Count Dooku.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNWRlNDI2N2MtMWE4OC00NWFkLWIyNDEtMGQ1ZWMyMTIxNWZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 71
+    },
+    {
+        "episodeTitle": "Nomad Droids",
+        "seasonIndex": "4",
+        "episodeIndex": "6",
+        "plot": "3PO and R2 escape Master Galia's Jedi Cruiser in a Y-Wing fighter and find themselves in one bizarre situation after the other.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BOWY1NTdmMmEtNTNmYS00OTczLTljNjUtY2E5YThiNmU2YTY2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.5714_AL_.jpg",
+        "PrimaryKey": 72
+    },
+    {
+        "episodeTitle": "Old Friends Not Forgotten",
+        "seasonIndex": "7",
+        "episodeIndex": "9",
+        "plot": "Ahsoka contacts Anakin and Obi-Wan, who must decide whether to help her pursue Maul on Mandalore or defend Coruscant.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNjk3M2JiM2MtOTdkOS00OWI4LWI1MzUtZjRmZWM2YzA5MTRjXkEyXkFqcGdeQXVyODYzMTA5NzA@._V1_Ratio2.3333_AL_.jpg",
+        "PrimaryKey": 73
+    },
+    {
+        "episodeTitle": "On the Wings of Keeradaks",
+        "seasonIndex": "7",
+        "episodeIndex": "3",
+        "plot": "With Echo recovered, Rex, Bad Batch and Anakin look to fight their way out of a Separatist base.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZTNmNzg3ZDMtNjM4OC00ZjFhLTlhZGMtNzk0MDA2ODQ4YzBhXkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_Ratio2.2698_AL_.jpg",
+        "PrimaryKey": 74
+    },
+    {
+        "episodeTitle": "Orders",
+        "seasonIndex": "6",
+        "episodeIndex": "4",
+        "plot": "Fives believes he's uncovered a major conspiracy regarding the mysterious actions of clone trooper Tup, and finds himself on-the-run after he's falsely accused of attempting to murder the Chancellor.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNDdiNDA2MWUtMjk5NS00NzBhLWE0ZjQtYzliODcyYmI4Y2RlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 75
+    },
+    {
+        "episodeTitle": "Overlords",
+        "seasonIndex": "3",
+        "episodeIndex": "15",
+        "plot": "A mysterious force draws Anakin, Obi-Wan and Ahsoka to a distant planet to determine whether Anakin is truly the Chosen One.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYTljMmRjODEtZjBlNy00NTMyLWIzNTAtYTc1YmIyZjdiMDE3XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.0000_AL_.jpg",
+        "PrimaryKey": 76
+    },
+    {
+        "episodeTitle": "Padawan Lost",
+        "seasonIndex": "3",
+        "episodeIndex": "21",
+        "plot": "Ahsoka is captured by a Trandoshan during a battle on Felucia. The reptilian aims to hunt her down for sport together with his kin.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZDhiZTliNTctM2U1YS00MWYwLTkyMDAtOWZlMjE2MTdkNDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 77
+    },
+    {
+        "episodeTitle": "Plan of Dissent",
+        "seasonIndex": "4",
+        "episodeIndex": "9",
+        "plot": "ARC Trooper Fives disagrees with General Krell's strategies and comes up with his own unauthorized plan using captured Umbaran star fighters.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZTYzODYzYTctZDUzYS00NTk2LThhYjYtNGZkYjRhYzM4NjU5XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio2.0000_AL_.jpg",
+        "PrimaryKey": 78
+    },
+    {
+        "episodeTitle": "Point of No Return",
+        "seasonIndex": "5",
+        "episodeIndex": "13",
+        "plot": "Finally on their way back to Republic space, D-Squad uncovers a Separatist plan involving a sabotaged Jedi cruiser.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYmM4ODZjMWMtN2Y3MS00YTdkLWI0YTUtOTFhNzEzZWM5ODJhXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 79
+    },
+    {
+        "episodeTitle": "Prisoners",
+        "seasonIndex": "4",
+        "episodeIndex": "3",
+        "plot": "Only Prince Lee-Char and Padawan Ahsoka Tano have escaped capture and must find a way to free their comrades as well as the entire planet from the impending rule of Riff Tamson.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMzczMDE3NzAtYmJiOS00YWQ4LTkzZTUtMDU1OTllZWE0MzgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.5238_AL_.jpg",
+        "PrimaryKey": 80
+    },
+    {
+        "episodeTitle": "Pursuit of Peace",
+        "seasonIndex": "3",
+        "episodeIndex": "11",
+        "plot": "Senators Amidala and Organa are opposed to funding five million new clone troopers, but they and other like-minded dignitaries find themselves targeted by thuggish bounty hunters set on changing their vote.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjZiMzg2YjctMjAyNi00NmY2LWFjNGYtNTg2NTY1YmE5NDY2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 81
+    },
+    {
+        "episodeTitle": "R2 Come Home",
+        "seasonIndex": "2",
+        "episodeIndex": "21",
+        "plot": "When Anakin and Mace try to rescue Admiral Kilian from his crashed cruiser, they walk into a trap set by Boba Fett and his bounty hunter associates. Then it is up to R2-D2 to try and get a message out.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNDg1MDQ4NmEtMmRmOC00MjhjLTlmMTktZGI4ZDIyZGViMTQ3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 82
+    },
+    {
+        "episodeTitle": "Revenge",
+        "seasonIndex": "4",
+        "episodeIndex": "22",
+        "plot": "Mother Talzin restores Darth Maul's sanity and gives him a better pair of mechanical legs. Now Maul wants revenge on Obi-Wan Kenobi and lures the Jedi to the remote planet of Raydonia.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMWQ3N2UzMzktYmUxMi00ZWYxLWJjYTYtYThkNTA4ODY2NmEwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 83
+    },
+    {
+        "episodeTitle": "Revival",
+        "seasonIndex": "5",
+        "episodeIndex": "1",
+        "plot": "Maul takes Savage as his apprentice and together they set out to gather an army. Their attempt to recruit Hondo Ohnaka and his pirates is interrupted by Jedi Council members Obi-Wan Kenobi and Adi Gallia.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYzBmNmRjYmMtNjQ2MC00YjFjLWExN2QtNzM2MjIwNDRlMjlmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.8254_AL_.jpg",
+        "PrimaryKey": 84
+    },
+    {
+        "episodeTitle": "Rising Malevolence",
+        "seasonIndex": "1",
+        "episodeIndex": "2",
+        "plot": "General Grievous uses his latest weapon, the Malevolence, to destroy Plo Koon's fleet. Stuck in an escape pod with three clone troopers, Koon fends off more battle droids while Anakin and Ahsoka mount a rescue mission.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTM3NjA1YTAtMzkxZi00YWE4LWJmM2UtM2M3YzRhYzI5ZTEyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 85
+    },
+    {
+        "episodeTitle": "Rookies",
+        "seasonIndex": "1",
+        "episodeIndex": "5",
+        "plot": "Alone on a distant outpost, Commander Cody and Captain Rex must inspire the rookie clones to believe in themselves to stave off a commando droid invasion.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjA3ODMwMTE5OF5BMl5BanBnXkFtZTgwMzM1Nzg5NTM@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 86
+    },
+    {
+        "episodeTitle": "Sabotage",
+        "seasonIndex": "5",
+        "episodeIndex": "17",
+        "plot": "Anakin and Ahsoka are tasked to investigate a bombing at the Jedi Temple since they were two of the few Jedi off-planet at the time it occurred.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNDZiZTM0YzItY2ZiNC00MGY2LTkyMDYtMGI1MTc3MjJiZWMxXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 87
+    },
+    {
+        "episodeTitle": "Sacrifice",
+        "seasonIndex": "6",
+        "episodeIndex": "13",
+        "plot": "After many grueling trials, Yoda next travels to the ancient Sith home world of Moraband, where he must face an ancient evil determined to rule the galaxy.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNmRiNzEwNWQtNzNhOC00OGY5LTkzNjQtNGVmMTFiMDZlZjJhXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3016_AL_.jpg",
+        "PrimaryKey": 88
+    },
+    {
+        "episodeTitle": "Secret Weapons",
+        "seasonIndex": "5",
+        "episodeIndex": "10",
+        "plot": "R2-D2 joins a team of Republic Droids known as D-Squad, led by Colonel Gascon. Their mission: to steal an encryption module from a Separatist dreadnought.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BM2VmYTRkYzEtODdhMy00YWM1LWI1ZjQtOTYzMjE5NjhmZDMxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 89
+    },
+    {
+        "episodeTitle": "Senate Murders",
+        "seasonIndex": "2",
+        "episodeIndex": "15",
+        "plot": "Padme is working to to introduce a bill to minimize military spending and halt the creation of clone troopers. But when one of her most trusted allies is poisoned, she and Bail Organa set out to expose the murderer.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYzU4MzQ3ODgtOTM4Ni00ZGIzLTliOGItOTllY2QzNjBkNDAwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 90
+    },
+    {
+        "episodeTitle": "Senate Spy",
+        "seasonIndex": "2",
+        "episodeIndex": "4",
+        "plot": "At the Jedi High Council's request, Padme investigates a Separatist conspiracy in the Senate.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BOTRmNTUyODEtNmY5Mi00YjRjLWEwZTMtYTI5YTdmMDI1ZGMyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 91
+    },
+    {
+        "episodeTitle": "Shades of Reason",
+        "seasonIndex": "5",
+        "episodeIndex": "15",
+        "plot": "The Sith brothers and their criminal allies attack Mandalore and the Death Watch pretends to defeat them, causing the gullible people to choose Pre Vizsla's rule over Duchess Satine's.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTQ1MjE4NTc0OF5BMl5BanBnXkFtZTgwMTU0NjIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 92
+    },
+    {
+        "episodeTitle": "Shadow Warrior",
+        "seasonIndex": "4",
+        "episodeIndex": "4",
+        "plot": "There is unrest on Naboo and the Gungans are considering to join the Separatists. But General Skywalker discovers Boss Lyonie is being influenced by dark magic against his will.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYTgwNmI4NTctZjJlMC00YTQyLThmMTgtZjE0NzVlY2U4MzI5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 93
+    },
+    {
+        "episodeTitle": "Shadow of Malevolence",
+        "seasonIndex": "1",
+        "episodeIndex": "3",
+        "plot": "The Malevolence has been revealed to the Republic. Anakin and Shadow Squad, accompanied by Ahsoka and Master Koon, launch an attack in their new long-range Y-wing bombers.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZjM0OGRhNGUtNTIwZC00NzNhLWEzMTQtMGMzNTdjMmI4Zjk4XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 94
+    },
+    {
+        "episodeTitle": "Shattered",
+        "seasonIndex": "7",
+        "episodeIndex": "11",
+        "plot": "After capturing Maul on Mandalore, Ahsoka's journey to the Jedi Council is disrupted when Order 66 is declared, turning her world upside down.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZjdhODg1MjEtZDAwMS00ZGU3LWE1YTQtNGVlZTJiZjljZGIwXkEyXkFqcGdeQXVyNjY0Mzk3NzA@._V1_Ratio2.3651_AL_.jpg",
+        "PrimaryKey": 95
+    },
+    {
+        "episodeTitle": "Slaves of the Republic",
+        "seasonIndex": "4",
+        "episodeIndex": "12",
+        "plot": "On the planet Zygerria, Anakin poses as a slaver with Ahsoka as his prize while Obi-Wan and Rex seek out the whereabouts of the missing Togruta colony.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMzZjYzJmYmEtMmNkNy00NGViLTgzZmYtOGEzYTNjOWM3OTZmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.5079_AL_.jpg",
+        "PrimaryKey": 96
+    },
+    {
+        "episodeTitle": "Sphere of Influence",
+        "seasonIndex": "3",
+        "episodeIndex": "4",
+        "plot": "When newly elected Chairman Papanoida's daughters are kidnapped, Senator Chuchi and Ahsoka Tano investigate the Trade Federation while Papanoida and his son follow a lead to Jabba's palace.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjJmOWE2ZGItZDk0My00YmJlLThkZTQtZTZiMmQ0OTM2ZDIzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 97
+    },
+    {
+        "episodeTitle": "Storm Over Ryloth",
+        "seasonIndex": "1",
+        "episodeIndex": "19",
+        "plot": "The Separatists have invaded the Twi'lek home planet of Ryloth. Anakin and Ahsoka lead a squadron of fighters against a Trade Federation battleship commanded by Neimoidian Captain Mar Tuuk.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYTc5NWIyMDQtYzViNS00MzM3LWE1ODctYjU3NTNmN2JmYzZmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 98
+    },
+    {
+        "episodeTitle": "Supply Lines",
+        "seasonIndex": "3",
+        "episodeIndex": "3",
+        "plot": "Jedi Master Ima-Gun Di and his men are trapped on the besieged world of Ryloth. Senator Bail Organa teams up with Representative Jar Jar Binks to convince neutral King Katuunko of Toydaria to send aid to the Twi'leks of Ryloth.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzIxM2ZlOGQtNWM3My00N2Y4LWEwMDMtNTBjNmVkZjY3MDE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 99
+    },
+    {
+        "episodeTitle": "The Academy",
+        "seasonIndex": "3",
+        "episodeIndex": "6",
+        "plot": "Ahsoka is assigned to tutor at a leadership academy on Mandalore. Duchess Satine's nephew Korkie and three of his classmates discover a conspiracy involving the black market and the planet's food supplies.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTYwNzAyMjk4MV5BMl5BanBnXkFtZTgwNDExNzIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 100
+    },
+    {
+        "episodeTitle": "The Bad Batch",
+        "seasonIndex": "7",
+        "episodeIndex": "1",
+        "plot": "Rex, Cody, and Clone Force 99 (an unorthodox, elite squad also known as the Bad Batch), look to recover the Republic's strategy algorithm from Admiral Trench, but a haunting truth awaits.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNWFjMWRhOTQtNmM4Zi00ZWUwLTliMjYtMTE0ODJmOGE0NGI2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 101
+    },
+    {
+        "episodeTitle": "The Box",
+        "seasonIndex": "4",
+        "episodeIndex": "17",
+        "plot": "Count Dooku challenges eleven bounty hunters to survive several deadly levels devised by Moralo Eval. The winners will participate in the plot to kidnap Chancellor Palpatine on Naboo.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzcwN2VmMzItM2MwYS00NTY3LTk5ZjktMzU5OTkzNjBhMzdiXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 102
+    },
+    {
+        "episodeTitle": "The Citadel",
+        "seasonIndex": "3",
+        "episodeIndex": "18",
+        "plot": "Obi-Wan, Anakin and some of their best troopers allow themselves to be frozen in carbonite in an attempt to break into the Separatist prison known as the Citadel to rescue Master Even Piell.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BY2QxYzY1ZTMtZjFmYi00NzQwLWJiYzctYWE4ZmVhYjg0M2E0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 103
+    },
+    {
+        "episodeTitle": "The Deserter",
+        "seasonIndex": "2",
+        "episodeIndex": "10",
+        "plot": "Obi-Wan and a detachment of the 501st track down General Grievous on Saleucami. When Captain Rex is injured he is taken to a farmhouse to recuperate, only to find the farmer has a familiar face.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMjE3NDI1NjM4Ml5BMl5BanBnXkFtZTgwMDc2NDEyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 104
+    },
+    {
+        "episodeTitle": "The Disappeared: Part 1",
+        "seasonIndex": "6",
+        "episodeIndex": "8",
+        "plot": "The peaceful world of Bardotta and its mystic ways are threatened by an ancient prophecy, and its top spiritual leaders have vanished.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNmQwNDc3NGItMjUwMC00YjQ3LTk5ZmYtMzYyOWVlODY1ZjZiXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.2857_AL_.jpg",
+        "PrimaryKey": 105
+    },
+    {
+        "episodeTitle": "The Disappeared: Part 2",
+        "seasonIndex": "6",
+        "episodeIndex": "9",
+        "plot": "Jar Jar Binks' beloved Queen Julia of the planet Bardotta has been abducted by the bloodthirsty Frangawl Cult to fulfill a dark and ancient prophecy.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTlhOWI1NTctMmY5Ni00MmM5LWFkYWMtMTFiNjA5ZjIwMDdlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3333_AL_.jpg",
+        "PrimaryKey": 106
+    },
+    {
+        "episodeTitle": "The Gathering",
+        "seasonIndex": "5",
+        "episodeIndex": "6",
+        "plot": "Ahsoka escorts a group of younglings to Ilum where they meet with Yoda and seek out the Kyber crystals needed to build their own lightsabers.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTQxNDM4MDczOF5BMl5BanBnXkFtZTgwNTQyMTIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 107
+    },
+    {
+        "episodeTitle": "The General",
+        "seasonIndex": "4",
+        "episodeIndex": "8",
+        "plot": "Krell sends Captain Rex and his troopers on an impossible mission: to conquer a heavily fortified Umbaran airbase.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNjA5MDY0NTktZGJlMy00OWVhLWIxOTktZjFhMjBjZDg1NTE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 108
+    },
+    {
+        "episodeTitle": "The Gungan General",
+        "seasonIndex": "1",
+        "episodeIndex": "12",
+        "plot": "While negotiating Count Dooku's ransom, Anakin and Obi-Wan are taken prisoner. The Jedi and Sith form an unlikely alliance in a bid to escape, with Jar Jar Binks as their only hope.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTAwMWMxY2UtNTU2YS00OGZlLTliNmEtYjQ3ZTM3MTRhZmRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 109
+    },
+    {
+        "episodeTitle": "The Hidden Enemy",
+        "seasonIndex": "1",
+        "episodeIndex": "16",
+        "plot": "Anakin and Obi-Wan discover evidence of a traitor amongst their ranks while attempting to lead Republic forces to liberate Christophsis from a Separatist siege.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTk0ODk2ODY2MF5BMl5BanBnXkFtZTgwNzAyMjIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 110
+    },
+    {
+        "episodeTitle": "The Jedi Who Knew Too Much",
+        "seasonIndex": "5",
+        "episodeIndex": "18",
+        "plot": "When the suspect of the Temple bombing is murdered in her cell, Ahsoka suddenly finds herself framed and on the run from the Republic military.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYTA5ZDdmOTktZmI0NC00ZTQyLTk1ZWUtYjczYTYwNTY0Y2I5XkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3333_AL_.jpg",
+        "PrimaryKey": 111
+    },
+    {
+        "episodeTitle": "The Lawless",
+        "seasonIndex": "5",
+        "episodeIndex": "16",
+        "plot": "Darth Maul has taken over leadership of Death Watch. Though the Jedi cannot officially interfere, Obi-Wan Kenobi travels to Mandalore to rescue Satine.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNTAxNzAzNzA3MV5BMl5BanBnXkFtZTgwMDY0NjIyMjE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 112
+    },
+    {
+        "episodeTitle": "The Lost One",
+        "seasonIndex": "6",
+        "episodeIndex": "10",
+        "plot": "A Jedi mission finds a lightsaber belonging to the long-dead Master Sifo-Dyas, prompting Yoda, Obi-Wan and Anakin to begin an investigation into his decade-old disappearance.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNDZjMmI1YWItNDNjMi00ZTZiLWFjYmQtNTdlYzI0M2M4M2I4XkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3333_AL_.jpg",
+        "PrimaryKey": 113
+    },
+    {
+        "episodeTitle": "The Mandalore Plot",
+        "seasonIndex": "2",
+        "episodeIndex": "12",
+        "plot": "Firmly opposed to war, Duchess Satine of Mandalore heads the Council of Neutral Systems. Obi-Wan Kenobi investigates rumors of the resurgence of the so-called Death Watch on her planet.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNmMyZDNlNDctOWFkZi00NWI5LTkxMTAtZjlkZjcxNjRhYjI3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 114
+    },
+    {
+        "episodeTitle": "The Phantom Apprentice",
+        "seasonIndex": "7",
+        "episodeIndex": "10",
+        "plot": "Ahsoka leads Republic clones to confront Maul's forces on Mandalore. Maul senses the impending chaos and makes a calculated play to ensure his own survival.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYjg0ZmY4YWUtNDVjNS00ZGIwLTgyZTMtNGZlYWYxOTNiMjM3XkEyXkFqcGdeQXVyMTAzMTQ0NTM1._V1_Ratio2.3810_AL_.jpg",
+        "PrimaryKey": 115
+    },
+    {
+        "episodeTitle": "The Rise of Clovis",
+        "seasonIndex": "6",
+        "episodeIndex": "6",
+        "plot": "Clovis and Padme head back to Coruscant to expose the financial corruption of the Banking Clan.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMGM5NzQ3NGQtMmY0Yy00NTI1LWFkNzMtYmM4OTc5NWYzMGMyXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.2857_AL_.jpg",
+        "PrimaryKey": 116
+    },
+    {
+        "episodeTitle": "The Soft War",
+        "seasonIndex": "5",
+        "episodeIndex": "4",
+        "plot": "The Onderon Rebels attempt to rescue former King Dendup before he is executed.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BOTRhOTkwODQtODQ0OC00ZmJhLTg5MjYtOWRiZTMxN2MzOTQ3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.6667_AL_.jpg",
+        "PrimaryKey": 117
+    },
+    {
+        "episodeTitle": "The Unknown",
+        "seasonIndex": "6",
+        "episodeIndex": "1",
+        "plot": "Clone trooper Tup is suffering from a severe neurological disorder that causes the death of a Jedi master. Trying to find the motives for the assassination, Anakin escorts Tup back to Kamino for examination.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTczOTIzNDg2NV5BMl5BanBnXkFtZTgwMTQ2MTI2MTE@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 118
+    },
+    {
+        "episodeTitle": "The Wrong Jedi",
+        "seasonIndex": "5",
+        "episodeIndex": "20",
+        "plot": "Ahsoka is put on trial by the Jedi Council and must face the Galactic Senate. Anakin searches for a way to prove his Padawan's innocence.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMTA0OWY2Y2ItZTI5ZC00YzgxLWFlZWMtZTRmMjIyNGUyYjVhXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3333_AL_.jpg",
+        "PrimaryKey": 119
+    },
+    {
+        "episodeTitle": "The Zillo Beast",
+        "seasonIndex": "2",
+        "episodeIndex": "18",
+        "plot": "When the Republic detonates a powerful electro-proton bomb to settle the battle of Malastare, it accidentally wakens an ancient and thought to be extinct Zillo Beast.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZTExYzE5MzEtYzAxNi00YTQwLTgyOTItNTI5ZGZiZmRiNTIyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 120
+    },
+    {
+        "episodeTitle": "The Zillo Beast Strikes Back",
+        "seasonIndex": "2",
+        "episodeIndex": "19",
+        "plot": "The Zillo Beast has been captured and is brought to Coruscant for testing. Chancellor Palpatine wants to learn the secrets of its invulnerability but only manages to make the beast angry enough to escape.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNmYyZDVhYTItZjhmYy00MmI4LWI0MGYtODE5Y2Y2ZjgzYWQyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.2381_AL_.jpg",
+        "PrimaryKey": 121
+    },
+    {
+        "episodeTitle": "Tipping Points",
+        "seasonIndex": "5",
+        "episodeIndex": "5",
+        "plot": "The people of Onderon have decided to revolt against the Separatists, leading to a full scale revolt between the rebels and battle droids.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMmE5Y2VmMzktM2EzYi00MWQ0LThmYTctZjZkMWVkYzcxZjAzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.5397_AL_.jpg",
+        "PrimaryKey": 122
+    },
+    {
+        "episodeTitle": "To Catch a Jedi",
+        "seasonIndex": "5",
+        "episodeIndex": "19",
+        "plot": "Ahsoka is on the run and hiding in the criminal underworld of Coruscant. She strikes up an unlikely alliance with a former enemy turned bounty hunter.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BODI3NGI2ZDItZGU4Yi00ZmVkLWJiODAtYmMyMzUwYTg3YmVlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio2.3333_AL_.jpg",
+        "PrimaryKey": 123
+    },
+    {
+        "episodeTitle": "Together Again",
+        "seasonIndex": "7",
+        "episodeIndex": "8",
+        "plot": "Ahsoka bargains for the sisters' freedom and makes a startling discovery.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMDVmMWRjMmUtNDI2MS00MWJhLTg5NGEtMzU4NTlmMDZmN2MxXkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_Ratio1.9524_AL_.jpg",
+        "PrimaryKey": 124
+    },
+    {
+        "episodeTitle": "Trespass",
+        "seasonIndex": "1",
+        "episodeIndex": "15",
+        "plot": "While investigating the disappearance of a clone security force, Anakin and Obi-Wan get caught in the middle of a conflict between the territorial inhabitants of a desolate ice world and the greedy representatives of a nearby moon.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNGJjODNmNWUtM2JkZi00ZWZmLWFlMjgtNWRkNzFmNGIwMzNlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 125
+    },
+    {
+        "episodeTitle": "Unfinished Business",
+        "seasonIndex": "7",
+        "episodeIndex": "4",
+        "plot": "The Republic plans a daring final strike against Admiral Trench, once again bringing together Rex, Echo, Anakin, and the elite Bad Batch squad.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BYTBkMzM0NjEtYWQ0Ny00OGViLWEwZTgtNDIyMmI4N2RhNGM2XkEyXkFqcGdeQXVyMjg5NDMwMQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 126
+    },
+    {
+        "episodeTitle": "Victory and Death",
+        "seasonIndex": "7",
+        "episodeIndex": "12",
+        "plot": "Ahsoka and Rex must use their wit and skills to survive the turbulent end of the Clone Wars.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZTJmNTVhYmMtOGE5NS00Y2RiLTg2NTgtOTU1YzQwZmVjZGFmXkEyXkFqcGdeQXVyNjY0Mzk3NzA@._V1_Ratio2.3651_AL_.jpg",
+        "PrimaryKey": 127
+    },
+    {
+        "episodeTitle": "Voices",
+        "seasonIndex": "6",
+        "episodeIndex": "11",
+        "plot": "Yoda is deeply unsettled when he hears a voice from beyond the grave - the voice of Qui-Gon Jinn.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BMmVmZGM5OTItMzk3ZC00M2M4LTk0OTktM2VlMGZkMGEzMWJiXkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 128
+    },
+    {
+        "episodeTitle": "Voyage of Temptation",
+        "seasonIndex": "2",
+        "episodeIndex": "13",
+        "plot": "Obi-Wan and Anakin guard the Duchess Satine and members of The Council of Neutral Systems as they travel to Coruscant aboard the luxury vessel Coronet, but a traitor amongst them has smuggled aboard a spider-shaped assassin droid.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNDE1NDUwMWMtYzMzNS00Nzk2LThmMDktMmVmZWIyMzJlNTY4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 129
+    },
+    {
+        "episodeTitle": "Water War",
+        "seasonIndex": "4",
+        "episodeIndex": "1",
+        "plot": "The water planet Mon Calamari is on the brink of civil war. Senator Amidala and her Jedi protector Anakin Skywalker take the side of the Mon Cal, while Separatist representative Riff Tamson spurs on the Quarren.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNzBiZmYzMWItMmRkNy00YWQ1LTgwMWItMjVjMDVjZDg1YzRlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.3492_AL_.jpg",
+        "PrimaryKey": 130
+    },
+    {
+        "episodeTitle": "Weapons Factory",
+        "seasonIndex": "2",
+        "episodeIndex": "6",
+        "plot": "Luminara and Anakin act as decoys to divert new enemy super-tanks, while Padawans Barriss Offee and Ahsoka attempt to destroy a Separatist droid factory.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZjlmODE0NDctMWRiMC00OThkLWEwOTEtZmM4YzI1ZThjZTU3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 131
+    },
+    {
+        "episodeTitle": "Witches of the Mist",
+        "seasonIndex": "3",
+        "episodeIndex": "14",
+        "plot": "As Count Dooku trains Savage Opress in the ways of the Dark Side, Obi-Wan and Anakin travel to Dathomir to learn more about this Zabrak Jedi killer.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BZjg1ODA0NDAtMDY5Ny00OWIzLWFkODktNTJkN2Q1NjBjZmJmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.1746_AL_.jpg",
+        "PrimaryKey": 132
+    },
+    {
+        "episodeTitle": "Wookiee Hunt",
+        "seasonIndex": "3",
+        "episodeIndex": "22",
+        "plot": "The Jedi younglings led by Ahsoka free a Wookiee prisoner from a transport. Together they form a plan to attack the Trandoshan base ship.",
+        "imageURL": "https:\/\/imdb-api.com\/images\/original\/MV5BNDdiMDY2ZDktMjk5My00NmNkLTgwZWEtNTFiMjM1ZTQ0OGUzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.7778_AL_.jpg",
+        "PrimaryKey": 133
+    }
+]

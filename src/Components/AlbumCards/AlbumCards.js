@@ -8,9 +8,9 @@ import Grid from '@mui/material/Grid';
 import './AlbumCards.css'
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
-import OutputJson from '../JSON/OutputJsonV2.json' 
+import OutputJson from '../JSON/fixeddata.json' 
 
-function AlbumCards() {
+function AlbumCards({inputData}) {
 
   var InputObject = JSON.stringify(OutputJson);
   var DataJson = JSON.parse(InputObject);
@@ -20,33 +20,33 @@ function AlbumCards() {
     {/* End hero unit */}
 
     <Grid container spacing={0} gap={4} margin='auto' justifyContent='center'>
-     {Object.keys(DataJson.episodeIndex).map((i) => (
+     {DataJson.map((item, index) => (
         <Card
             sx={{ maxHeight: '45%', maxWidth: 325, display: 'flex', flexDirection: 'column'}}
-            key={i}
+            key={index}
             variant="outlined"
           >
             <CardMedia
               component="img"
               className='episodeImage'
-              src= {DataJson.imageURL[i]}
+              src= {item.imageURL}
               alt="Image from Star Wars: The Clone Wars"
             />
             <CardContent sx={{ flexGrow: 1 }}>
               {/* EpisodeTitle */}
               <Typography sx={{ fontWeight: 'bold' }} gutterBottom variant="h5" component="h2" className='episodeTitle'>
-                  {DataJson.episodeTitle[i]}
+                  {item.episodeTitle}
               </Typography>
               <Typography className='seasonAndEpisodeIndicator'>
-                {"Season " + DataJson.seasonIndex[i] + ", Episode " + DataJson.episodeIndex[i]}
+                {"Season " + item.seasonIndex + ", Episode " + item.episodeIndex}
               </Typography>
               <Typography className='episodePlot' variant='h7'>
                   {/* Plot Title */}
-                  {DataJson.plot[i]}
+                  {item.plot}
               </Typography>
             </CardContent>
             <CardActions>
-              <Button size="small">IMDB</Button>
+              <Button href= {"imdb.com"} classNamesize="small">IMDB</Button>
               <Button size="small">WATCH</Button>
             </CardActions>
           </Card>  
@@ -57,34 +57,3 @@ function AlbumCards() {
 }
 
 export default AlbumCards
-
-  {/* {cards.map((card) => (
-        <Grid item key={card} xs={12} sm={6} md={4}>
-          <Card
-            sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}
-          >
-            <CardMedia
-              component="img"
-              sx={{
-                // 16:9
-                pt: '56.25%',
-              }}
-              src= 'OutputJson.image[1]'
-              alt="random"
-            />
-            <CardContent sx={{ flexGrow: 1 }}>
-              {/* EpisodeTitle */}
-              {/* <Typography gutterBottom variant="h5" component="h2">
-                  {OutputJson.episodeTitle[1]}
-              </Typography>
-              {/* Plot Title */}
-                {/* {OutputJson.plot} */}
-              {/* <Typography>
-                {/* {OutputJson.seasonIndex + OutputJson.episodeIndex} */}
-              {/* </Typography>
-            </CardContent>
-            <CardActions>
-              <Button size="small">View</Button>
-              <Button size="small">Edit</Button>
-            </CardActions>
-          </Card> */} 
