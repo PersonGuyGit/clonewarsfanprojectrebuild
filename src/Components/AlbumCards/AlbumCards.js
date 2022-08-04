@@ -1,7 +1,5 @@
 import React from 'react'
-import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
-import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Grid from '@mui/material/Grid';
@@ -45,10 +43,6 @@ function AlbumCards({inputData}) {
                   {item.plot}
               </Typography>
             </CardContent>
-            <CardActions>
-              <Button href= {"imdb.com"} classNamesize="small">IMDB</Button>
-              <Button size="small">WATCH</Button>
-            </CardActions>
           </Card>  
       ))}  
     </Grid>

@@ -3,22 +3,8 @@ import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
-import Link from "@mui/material/Link";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import AlbumCards from "../AlbumCards/AlbumCards";
-
-function Copyright() {
-  return (
-    <Typography variant="body2" color="text.secondary" align="center">
-      {"Copyright © "}
-      <Link color="inherit" href="https://mui.com/">
-        Your Website
-      </Link>{" "}
-      {new Date().getFullYear()}
-      {"."}
-    </Typography>
-  );
-}
 
 const theme = createTheme({
   palette: {
@@ -89,27 +75,15 @@ export default function Album() {
               align="center"
               color="text.primary"
             >
-              Star Wars: The Clone Wars
+              Star Wars: The Alphabetical Wars
             </Typography>
-            <Typography
-              component="h2"
-              variant="h2"
-              align="center"
-              padding-bottom="1rem"
-              color="text.primary"
-            >
-              In Alphabetical Order
-            </Typography>
-
             <Typography
               variant="h5"
               align="center"
               color="text.secondary"
               paragraph
             >
-              The one true viewing order, to bring balance to the force.
-              <br /> Use this as a guide for disordered marathons of Star Wars:
-              The Clone Wars.
+              Use this guide for alphabetized Clone Wars marathons...
             </Typography>
           </Container>
         </Box>
@@ -130,7 +104,6 @@ export default function Album() {
         >
           This fan-made website is not made or associated with any rightholders of Star Wars
         </Typography>
-        <Copyright/>
       </Box>
       {/* End footer */}
     </ThemeProvider>
