@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clonewarsfanprojectrebuild/static/css/main.245e18a3.css",
+    "main.js": "/clonewarsfanprojectrebuild/static/js/main.02196fd4.js",
+    "static/js/787.3705d74a.chunk.js": "/clonewarsfanprojectrebuild/static/js/787.3705d74a.chunk.js",
+    "index.html": "/clonewarsfanprojectrebuild/index.html",
+    "main.245e18a3.css.map": "/clonewarsfanprojectrebuild/static/css/main.245e18a3.css.map",
+    "main.02196fd4.js.map": "/clonewarsfanprojectrebuild/static/js/main.02196fd4.js.map",
+    "787.3705d74a.chunk.js.map": "/clonewarsfanprojectrebuild/static/js/787.3705d74a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245e18a3.css",
+    "static/js/main.02196fd4.js"
+  ]
+}
